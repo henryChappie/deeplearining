@@ -1,32 +1,32 @@
-# Awesome Deep Learning 
+# 深度学习
 
 ## Table of Contents
 
-* **[Free Online Books](#free-online-books)**  
+* **[免费在线书籍](#free-online-books)**  
 
-* **[Courses](#courses)**  
+* **[课程](#courses)**  
 
-* **[Videos and Lectures](#videos-and-lectures)**  
+* **[视频和讲座](#videos-and-lectures)**  
 
-* **[Papers](#papers)**  
+* **[论文](#papers)**  
 
-* **[Tutorials](#tutorials)**  
+* **[教程](#tutorials)**  
 
-* **[Researchers](#researchers)**  
+* **[研究](#researchers)**  
 
-* **[Websites](#websites)**  
+* **[站点](#websites)**  
 
-* **[Datasets](#datasets)**
+* **[数据集](#datasets)**
 
-* **[Conferences](#Conferences)**
+* **[会议](#Conferences)**
 
-* **[Frameworks](#frameworks)**  
+* **[框架](#frameworks)**  
 
-* **[Tools](#tools)**  
+* **[工具](#tools)**  
 
-* **[Miscellaneous](#miscellaneous)**  
+* **[其它](#miscellaneous)**  
 
-* **[Contributing](#contributing)**  
+* **[贡献](#contributing)**  
 
  
 ### Free Online Books
