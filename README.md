@@ -1,6 +1,6 @@
 # 深度学习
 
-＃＃ 目录
+## 目录
 
 * **[免费在线书籍](#free-online-books)**  
 
@@ -29,7 +29,7 @@
 * **[贡献](#contributing)**  
 
  
-###免费在线图书
+### 免费在线图书
 
 1. [深度学习]（http://www.deeplearningbook.org/  ），Yoshua Bengio，Ian Goodfellow和Aaron Courville（05/07/2015  ）
 2. Michael Nielsen的[神经网络和深度学习]（http://neuralnetworksanddeeplearning.com/  ）（2014年12月  ）
@@ -41,7 +41,7 @@
 8. [神经网络中的深度学习：概述]（http://arxiv.org/pdf/1404.7828v4.pdf  ）
 9. [人工智能和机器学习：主题明智的解释]（https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/  ）
  
-＃＃＃ 课程
+ ### 课程
 
 1. [机器学习 - 斯坦福]（https://class.coursera.org/ml-005  ）作者：Andrew Ng在Coursera（2010-2014  ）
 2. [机器学习 - 加州理工学院]（http://work.caltech.edu/lectures.html  ）由Yaser Abu-Mostafa（2012-2014  ）
@@ -72,7 +72,7 @@
 26. [Bhiksha Raj教授] [2017年深度学习导论]（http://deeplearning.cs.cmu.edu/  ）
 27. [人人工智能]（https://www.deeplearning.ai/ai-for-everyone/  ）作者：Andrew Ng（2019  ）
 
-###视频和讲座
+### 视频和讲座
 
 1. [如何创造心灵]（https://www.youtube.com/watch?v=RIkxVci-R4k  ）作者：Ray Kurzweil
 2. [深度学习，自学习和无监督特征学习]（https://www.youtube.com/watch?v=n1ViNeWhC24  ）作者：Andrew Ng
@@ -94,7 +94,7 @@
 18. [NIPS 2016讲座和研讨会视频]（https://nips.cc/Conferences/2016/Schedule  ） -  NIPS 2016
 19. [深度学习速成课程]（https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07  ）：Leo Isikdogan在YouTube上的一系列小型讲座（2018年  ）
 
-###论文
+### 论文
 *你也可以从[这里]（https://github.com/terryum/awesome-deep-learning-papers  ）找到引用最多的深度学习论文*
 
 1. [深度卷积神经网络的ImageNet分类]（http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf  ）
@@ -140,7 +140,7 @@
 41. [具有Em路由的矩阵胶囊]（https://openreview.net/pdf?id=HJWLfGWRb  ）
 42. [Efficient BackProp]（http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf  ）
 
-###教程
+### 教程
 
 1. [UFLDL教程1]（http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial  ）
 2. [UFLDL教程2]（http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/  ）
@@ -169,7 +169,7 @@
 
 
 
-##研究人员
+## 研究人员
 
 1. [Aaron Courville]（http://aaroncourville.wordpress.com  ）
 2. [Abdel-rahman Mohamed]（http://www.cs.toronto.edu/~asamir/  ）
@@ -272,7 +272,7 @@
 99. [RobertLaganière]（http://www.site.uottawa.ca/~laganier/  ）
 
 
-###网站
+### 网站
 
 1. [deeplearning.net]（http://deeplearning.net/  ）
 2. [deeplearning.stanford.edu]（http://deeplearning.stanford.edu/  ）
@@ -302,7 +302,7 @@
 26. [机器学习指南]（http://yerevann.com/a-guide-to-deep-learning/  ）
 27. [初学者深度学习]（https://spandan-madan.github.io/DeepLearningProject/  ）
 
-###数据集
+### 数据集
 
 1. [MNIST]（http://yann.lecun.com/exdb/mnist/  ）手写数字
 2.来自街景的[Google House Numbers]（http://ufldl.stanford.edu/housenumbers/  ）
@@ -426,7 +426,7 @@
 139. [大型时装（DeepFashion  ）数据库]（http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html  ） - 包含超过800,000种不同的时尚形象。此数据集中的每个图像都标有50个类别，1,000个描述属性，边界框和服装标记
 140. [FakeNewsCorpus]（https://github.com/several27/FakeNewsCorpus  ） - 包含使用[opensources.co]（http://opensources.co  ）类型分类的约1000万篇新闻文章
 
-###会议
+### 会议
 
 1. [CVPR  -  IEEE计算机视觉和模式识别会议]（http://cvpr2018.thecvf.com  ）
 2. [AAMAS  - 自治代理和多代理系统国际联合会议]（http://celweb.vuse.vanderbilt.edu/aamas18/  ）
@@ -440,7 +440,7 @@
 10. [ICCV-计算机视觉国际会议]（http://iccv2017.thecvf.com  ）
 11. [AAAI  - 促进人工智能促进协会]（https://www.aaai.org  ）
 
-＃＃＃ 构架
+### 架构
 
 1. [Caffe]（http://caffe.berkeleyvision.org/  ）  
 2. [Torch7]（http://torch.ch/  ）
@@ -496,14 +496,14 @@
 51. [Coach  - 英特尔®AI实验室强化学习教练]（https://github.com/NervanaSystems/coach  ）
 52. [albumentations  - 一个快速和框架无关的图像增强库]（https://github.com/albu/albumentations  ）
 
-###工具
+### 工具
 
 1. [Netron]（https://github.com/lutzroeder/netron  ） - 用于深度学习和机器学习模型的Visualizer
 2. [Jupyter Notebook]（http://jupyter.org  ） - 基于Web的笔记本环境，用于交互式计算
 3. [TensorBoard]（https://github.com/tensorflow/tensorboard  ） -  TensorFlow的可视化工具包
 4. [用于AI的Visual Studio工具]（https://visualstudio.microsoft.com/downloads/ai-tools-vs  ） - 开发，调试和部署深度学习和AI解决方案
 
-###其他
+### 其他
 
 1. [Google Plus  - 深度学习社区]（https://plus.google.com/communities/112866381580457264725  ）
 2. [Caffe网络研讨会]（http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&searchItems=&sessionTopic=&sessionEvent=4&sessionYear=2014& ; sessionFormat =安培;提交=安培;选择= +  ）
@@ -540,13 +540,3 @@
 34. [Awesome Graph Embedding]（https://github.com/benedekrozemberczki/awesome-graph-embedding  ） - 与图表级图形结构化数据的深度学习科学研究相关的文章列表。
 35. [Awesome Network Embedding]（https://github.com/chihming/awesome-network-embedding  ） - 与节点级图形结构化数据的深度学习科学研究相关的文章列表。
 
------
-###贡献
-有什么想法，你觉得很棒，并且适合这个列表？随意发送[拉请求]（https://github.com/ashara12/awesome-deeplearning/pulls  ）。
-
------
-＃＃ 执照
-
-[！[CC0（http://i.creativecommons.org/p/zero/1.0/88x31.png  ）（http://creativecommons.org/publicdomain/zero/1.0/  ）
-
-在法律允许的范围内，[Christos Christofidis]（https://linkedin.com/in/Christofidis  ）已放弃对此作品的所有版权及相关或相邻权利。
